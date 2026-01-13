@@ -1,7 +1,7 @@
 # 🛒 Walmart Sales Analysis  
 
 This project is all about exploring and analyzing Walmart sales data.  
-I wanted to go beyond just cleaning data — so I built a full workflow:  
+This is the full workflow:  
 
 1. **Cleaned the raw dataset** using Python (pandas).  
 2. **Saved the cleaned dataset** for later use.  
