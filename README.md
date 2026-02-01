@@ -1,4 +1,4 @@
-# 🛒 Walmart Sales Analysis  
+#  Walmart Sales Analysis  
 
 This project is all about exploring and analyzing Walmart sales data.  
 This is the full workflow:  
@@ -12,7 +12,7 @@ This is the full workflow:
 
 ---
 
-## 🚀 What I Did  
+## What I Did  
 
 - **Data Cleaning (Python + Pandas):**  
   - Handled missing values, corrected data types, and saved a new file: `Cleaned_Walmart_Sales.csv`.  
@@ -34,7 +34,7 @@ This is the full workflow:
 
 ---
 
-## 🛠 Tools & Tech  
+##  Tools & Tech  
 
 - **Python:** Pandas, Matplotlib, Seaborn, SQLAlchemy  
 - **PostgreSQL:** SQL queries & storage  
@@ -43,7 +43,7 @@ This is the full workflow:
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 
 Walmart-Sales-Analysis/
 │
@@ -55,7 +55,7 @@ Walmart-Sales-Analysis/
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project overview
 
-## ⚡ How to Run  
+## How to Run  
 
 1. Clone this repo  
 git clone https://github.com/your-username/walmart-sales-analysis.git
